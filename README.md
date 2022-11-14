@@ -8,7 +8,8 @@ Sorting AlgorithmVisualizer is a web app for visualizing a bunch of different so
 - Quick Sort
 - Merge Sort
 
-With the functionality of (Processing Speed Control) and  (Array Size Control)
+With the functionality of (Processing Speed Control) and  (Array Size Control).
+
 It is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
 
 ### This is a simple visualization project made using html, css, bootstrap and javascript. <br/>
