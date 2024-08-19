@@ -133,6 +133,14 @@ a:hover {
     margin: 0 4px; /* Reduce gap between bars for smaller screens */
     width: 15px;
   }
+
+  footer {
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    color: #ffbf00;
+    text-align: center;
+    margin-top: 200px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -160,5 +168,13 @@ a:hover {
 
   .bar-label {
     font-size: 12px; /* Adjust label font size for better fit */
+  }
+
+  footer {
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    color: #ffbf00;
+    text-align: center;
+    margin-top: 250px;
   }
 }
